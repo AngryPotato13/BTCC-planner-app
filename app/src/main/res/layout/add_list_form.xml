@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Location"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/grey"
+        android:gravity="center"
+        android:text="Lists"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/iv_icon2"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        app:srcCompat="@drawable/ic_add_list" />
+
+    <EditText
+        android:id="@+id/tv_list_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="List name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/tv_list_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Where track are you going to" />
+
+    <EditText
+        android:id="@+id/tv_list_days"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="How many days" />
+
+    <EditText
+        android:id="@+id/tv_list_staying"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Where are you staying" />
+
+    <EditText
+        android:id="@+id/tv_list_eating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Where are you eating" />
+
+
+    <EditText
+        android:id="@+id/tv_list_amount_poi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Points of intrest visiting" />
+
+</LinearLayout>

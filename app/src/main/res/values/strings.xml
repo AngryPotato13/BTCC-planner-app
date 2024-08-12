@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Final Project App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="DP">Donington Park is a motorsport circuit located near Castle Donington in Leicestershire, England. The circuit business is now owned by Jonathan Palmers MotorSport Vision organisation,
+        and the surrounding Donington Park Estate, still owned by the Wheatcroft family, is currently under lease by MotorSport Vision until 2038. It has a capacity of 120,000, and is also the venue of
+        the Download Festival. Originally part of the Donington Hall estate, it was created as a racing circuit during the period between the First and Second World Wars when the German Silver Arrows were
+        battling for the European Championship. Used as a military vehicle storage depot during the Second World War, it fell into disrepair until bought by local construction entrepreneur Tom Wheatcroft.
+        Revived under his ownership in the 1970s, it hosted a single Formula One race in 1993, but became the favoured home of the British round of the MotoGP motorcycling championship.</string>
+
+    <string name="BH">A natural amphitheatre offering unrivalled views of the action from various vantage points, Brands Hatch is known as one of Britain’s best-loved motor racing circuits. Its unique
+        combination of dips, cambers, fearsome corners and hills means it is still one of the world’s most renowned racing venues. The BTCC has been going to Brands Hatch since the series began back in 1958.
+        The 2024 campaign will see the BTCC call into Brands Hatch for both the second event of the season as well as the finale, and the action-packed Indy layout is set to host the initial visit to Kent, with
+        Rounds 4, 5 and 6 of the campaign, on 11/12 May.
+        The historic race track has seen some spectacular BTCC entertainment over the many years the championship has been visiting, and has been the scene of many a nail-biting finale.</string>
+
+    <string name="Snetterton">Snetterton Circuit is a motor racing course in Norfolk, England, originally opened in 1953. Owned by Jonathan Palmers MotorSport Vision organisation, it is situated on the A11 road 12-mile
+        (19 km) north-east of the town of Thetford and 19-mile (31 km) south-west of the city of Norwich. The circuit is named after the nearby village of Snetterton to the north-west of the circuit, although much of the
+        circuit lies in the adjoining civil parish of Quidenham.
+        The circuit hosts races from series including the British Touring Car Championship, British Formula Three Championship and British Superbike Championship. From 1980 to 1994, the track hosted the UKs first 24-hour race,
+        the Willhire 24 Hour. From 2003 to 2013 the Citroen 2CV 24 Hour Race was held at Snetterton on the 200 Circuit. After a short stint racing at Anglesey the 2CV 24Hr race has again returned to Snetterton and is
+        usually held around the August bank holiday weekend. </string>
+
+    <string name="Thruxton">The Thruxton Circuit is a 2.356 mi (3.792 km) motor-racing circuit located near the village of Thruxton in Hampshire, England, United Kingdom, about 30 miles north of Southampton.
+        It has hosted motorsport events including the British Touring Car Championship, British GT Championship, British Formula One Championship, British Formula Three, and GB3 Championship. It is often referred to as the
+        "Fastest Circuit in the UK" where drivers can reach speeds of over 190 mph (300 km/h) and has earned the reputation of being a true drivers track. To illustrate this, Damon Hill drove his Williams Formula One car
+        around the circuit at an average speed of 147 mph (237 km/h) in 1993. The site also houses the headquarters of the British Automobile Racing Club (BARC).</string>
+
+    <string name="Oulton_Park">Oulton Park is a hard surfaced track used for motor racing, close to the village of Little Budworth, Cheshire, England. It is about 5-mile (8.0 km) from Winsford, 13-mile (21 km) from Chester
+        city centre, 8-mile (13 km) from Northwich and 17-mile (27 km) from Warrington, with a nearby rail connection along the Mid-Cheshire Line. It occupies much of the area which was previously known as the Oulton Estate.
+        The racing circuit is owned and operated by Jonathan Palmers MotorSport Vision organisation. The track is characterised by rapidly changing gradients, blind crests and several tight corners. The full circuit is
+        2.692 mi (4.332 km). The highest part of the course is Hill Top. Paddock facilities are reasonable in size with large areas of hard-standing and some power points.</string>
+
+    <string name="Croft">Croft Circuit is a motor racing circuit located near Dalton-on-Tees in North Yorkshire, England.[1] The tarmac circuit is 2.127 mi (3.423 km) long and is based on the lands of an airfield, but has
+        long since moved on from being a basic airfield circuit. The circuit holds meetings of the British Touring Car Championship, British Rallycross and Pickup Truck Racing race series. Croft has been staging major races
+        since 1996. They are the British Touring Car Championship (BTCC), along with support series Porsche Carrera Cup Great Britain, Renault Clio Cup, Historic Car Racing, and Ginetta Junior Championship: and formerly
+        hosted the UK Formula Renault, UK Formula BMW, SEAT Leon Cupra Championship.The British Superbike Championship left the calendar following the 2011 season and is not yet scheduled to return to Croft.
+        Croft last featured on the F3/GT calendar for the 2007 and the 2008 season.</string>
+
+    <string name="Knockhill">Knockhill Racing Circuit is a motor racing circuit in Fife, Scotland. It opened in September 1974 and is Scotlands national motorsport centre. The circuit is located in the countryside about
+        6-mile (9.7 km) north of Dunfermline. It is the only FIA approved circuit in Scotland. The circuit has three layouts, the 1.300 mi (2.092 km) International layout with 9 corners, the 1.000 mi (1.609 km) National
+        layout with 10 corners and the 0.300 mi (0.483 km) tri-oval. On all layouts the circuit is 10 m (33 ft) wide, and has a total elevation change of 37 m (121 ft). In 2012, the circuit restarted racing and track
+        days in the anti-clockwise direction. It gained a licence for motorbikes and cars to compete in both directions, the first racing circuit to achieve this in the UK in modern times. As of December 2021 the
+        circuit has an FIA grade 3 licence, the only circuit in Scotland issued with a licence by the FIA at this time.</string>
+
+    <string name="Silverstone">Silverstone Circuit is a motor racing circuit in England, near the Northamptonshire villages of Towcester, Silverstone and Whittlebury. It is the home of the British Grand Prix, which it
+        first hosted as the 1948 British Grand Prix. The 1950 British Grand Prix at Silverstone was the first race in the newly created World Championship of Drivers. The race rotated between Silverstone, Aintree and Brands
+        Hatch from 1955 to 1986, but settled permanently at the Silverstone track in 1987. The circuit also hosts the British round of the MotoGP series. The Silverstone circuit is on the site of a Royal Air Force bomber
+        station, RAF Silverstone, which was operational between 1943 and 1946. The station was the base for No. 17 Operational Training Unit. The airfields three runways, in classic WWII triangle format, lie within the
+        outline of the present track.</string>
+
+    <string name="Welcome">Welcome back!!!</string>
+
+</resources>
